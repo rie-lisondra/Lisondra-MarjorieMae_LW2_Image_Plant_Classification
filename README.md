@@ -87,7 +87,7 @@
 
 ### 10. Water Clover *(Marsilea quadrifolia)*
 
-![Alt text](Water_Clover.jpg)
+![Alt text](aqua_plants/Water_Clover.jpg)
 
 <blockquote><div align="justify">
   A small aquatic fern with four-lobed leaves resembling a clover. It grows in shallow water or muddy substrates and reproduces via spores, often spreading across wetlands and rice fields.
@@ -95,7 +95,7 @@
 
 ### 11. Marsh Marigold *(Caltha palustris)*
 
-![Alt text](Marsh_Marigold.jpg)
+![Alt text](aqua_plants/Marsh_Marigold.jpg)
 
 <blockquote><div align="justify">
   A perennial wetland plant with bright yellow flowers and rounded leaves. Found in marshes and stream edges, it blooms early in spring and supports pollinators.
@@ -103,7 +103,7 @@
 
 ### 12. Water Stargrass *(Heteranthera dubia)* 
 
-![Alt text](Water_Stargrass.jpg)
+![Alt text](aqua_plants/Water_Stargrass.jpg)
 
 <blockquote><div align="justify">
   A submerged freshwater plant with narrow leaves and small yellow flowers that rise above the water surface. It grows in clear, slow-moving waters and provides shelter for fish and invertebrates.
@@ -111,7 +111,7 @@
 
 ### 13. Hornwort *(Ceratophyllum demersum)*
 
-![Alt text](Hornwort.jpg)
+![Alt text](aqua_plants/Hornwort.jpg)
 
 <blockquote><div align="justify">
   A rootless submerged plant with whorled, forked leaves. It floats freely or anchors loosely in sediment and is known for oxygenating water and inhibiting algae growth.
@@ -119,7 +119,7 @@
 
 ### 14. Pickerelweed *(Pontederia cordata)*
 
-![Alt text](Pickerelweed.jpg)
+![Alt text](aqua_plants/Pickerelweed.jpg)
 
 <blockquote><div align="justify">
   An emergent aquatic plant with heart-shaped leaves and spikes of violet-blue flowers. Common in shallow freshwater habitats, it is valuable for erosion control and as a food source for wildlife.
@@ -127,7 +127,7 @@
 
 ### 15. Water Mimosa *(Neptunia oleracea)*
 
-![Alt text](Water_Mimosa.jpg)
+![Alt text](aqua_plants/Water_Mimosa.jpg)
 
 <blockquote><div align="justify">
   A floating or creeping aquatic plant with sensitive, feathery leaves that fold when touched. It grows in tropical wetlands and is capable of nitrogen fixation, improving soil fertility.
@@ -135,7 +135,7 @@
 
 ### 16. Blue Flag Iris *(Iris versicolor)*
 
-![Alt text](Blue_Flag_Iris.jpg)
+![Alt text](aqua_plants/Blue_Flag_Iris.jpg)
 
 <blockquote><div align="justify">
   A perennial wetland plant with sword-like leaves and large blue-purple flowers. It grows along pond margins and marshes, contributing to wetland biodiversity and aesthetics.
@@ -143,7 +143,7 @@
 
 ### 17. Giant Bur-reed *(Sparganium eurycarpum)*
 
-![Alt text](Giant_Bur-reed.jpg)
+![Alt text](aqua_plants/Giant_Bur-reed.jpg)
 
 <blockquote><div align="justify">
   An emergent aquatic plant with long, grass-like leaves and spherical, spiny seed heads. It thrives in shallow water and provides food and shelter for aquatic wildlife.
@@ -151,7 +151,7 @@
 
 ### 18. Red Mangrove *(Rhizophora mangle)*
 
-![Alt text](Red_Mnagroove.jpg)
+![Alt text](aqua_plants/Red_Mnagroove.jpg)
 
 <blockquote><div align="justify">
   A coastal mangrove tree with distinctive prop roots that anchor it in soft sediments. It grows in tidal zones, protects coastlines from erosion, and serves as a nursery habitat for marine species.
@@ -159,7 +159,7 @@
 
 ### 19. Golden Club *(Orontium aquaticum)*
 
-![Alt text](Golden_Club.jpg)
+![Alt text](aqua_plants/Golden_Club.jpg)
 
 <blockquote><div align="justify">
   A perennial aquatic plant with glossy lance-shaped leaves and a yellow, club-like flower spike. It grows in shallow freshwater and is among the earliest flowering aquatic plants.
@@ -167,7 +167,7 @@
 
 ### 20. Arrow Arum *(Peltandra virginica)*
 
-![Alt text](Arrow_Arum.jpg)
+![Alt text](aqua_plants/Arrow_Arum.jpg)
 
 <blockquote><div align="justify">
   A wetland plant with large arrow-shaped leaves and a hooded green flower (spathe). It grows in marshes and slow-moving waters, providing cover for amphibians and aquatic organisms.
