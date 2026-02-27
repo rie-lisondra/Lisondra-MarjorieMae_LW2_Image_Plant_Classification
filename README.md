@@ -23,11 +23,15 @@
 
 ### 2. Frogbit *(Hydrocharis morsus-ranae)*
 
+![Alt text](aqua_plants/Frogbit.jpg)
+
 <blockquote><div align="justify">
   A free-floating freshwater plant with round, glossy leaves resembling small lily pads. It reproduces rapidly through stolons and forms dense mats on still or slow-moving waters, providing cover for aquatic organisms but sometimes becoming invasive.
 </div></blockquote>
 
 ### 3. Cattail *(Typha latifolia)*
+
+![Alt text](aqua_plants/Cattail.jpg)
 
 <blockquote><div align="justify">
   An emergent wetland plant with tall, narrow leaves and a distinctive brown cylindrical flower spike. Common in marshes and pond margins, cattails stabilize soil, filter pollutants, and provide habitat for birds and insects.
@@ -35,17 +39,23 @@
 
 ### 4. Reed *(Phragmites australis)*
 
+![Alt text](aqua_plants/Reed.jpg)
+
 <blockquote><div align="justify">
   A tall perennial grass growing in wetlands and along shorelines. It forms dense stands with hollow stems and feathery flower plumes. Reeds are effective at erosion control but can outcompete native vegetation when invasive.
 </div></blockquote>
 
 ### 5. Scirpus Bulrush *(Schoenoplectus lacustris)*
 
+![Alt text](aqua_plants/Scirpus_Bulrush.jpg)
+
 <blockquote><div align="justify">
   An emergent wetland plant with tall, narrow leaves and a distinctive brown cylindrical flower spike. Common in marshes and pond margins, cattails stabilize soil, filter pollutants, and provide habitat for birds and insects.
 </div></blockquote>
 
 ### 6. Sea Grape *(Coccoloba uvifera)*
+
+![Alt text](aqua_plants/Sea_Grapes.jpg)
 
 <blockquote><div align="justify">
   A coastal shrub or small tree with large, leathery, round leaves and grape-like fruit clusters. Found along tropical shorelines, it helps prevent erosion and tolerates salt spray and sandy soils.
