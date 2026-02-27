@@ -15,6 +15,8 @@
 
 ### 1. Rockweed *(Ascophyllum nodosum)*
 
+![Alt text](aqua_plants/Rockweed.jpg)
+
 <blockquote><div align="justify">
   A brown marine alga found along rocky coastlines in intertidal zones. It has long, strap-like fronds with air bladders that help it float. Rockweed provides shelter and food for many marine invertebrates and plays a role in coastal nutrient cycling.
 </div></blockquote>
