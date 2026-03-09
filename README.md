@@ -1,4 +1,5 @@
 # Lisondra-MarjorieMae_LW2_Image_Plant_Classification
+---
 
 ## A. PROJECT OVERVIEW
 
@@ -10,6 +11,8 @@
     The purpose of the image classification model is to train the system to differentiate between various aquatic plant species by analyzing visual features such as shape, color, and growth patterns. This activity allowed me to better understand the basics of image classification and machine learning while applying the technology to a real-world topic related to plants and the environment.
   </p>
 </div></blockquote>
+
+---
 
 ## B. PLANT SPECIES SECTION
 
@@ -107,7 +110,7 @@
 
 <blockquote><div align="justify">
   A submerged freshwater plant with narrow leaves and small yellow flowers that rise above the water surface. It grows in clear, slow-moving waters and provides shelter for fish and invertebrates.
-</div></blockquote>
+</div></blockquote> 
 
 ### 13. Hornwort *(Ceratophyllum demersum)*
 
@@ -151,7 +154,7 @@
 
 ### 18. Red Mangrove *(Rhizophora mangle)*
 
-![Alt text](aqua_plants/Red_Mnagroove.jpg)
+![Alt text](aqua_plants/Red_Mangroove.jpg)
 
 <blockquote><div align="justify">
   A coastal mangrove tree with distinctive prop roots that anchor it in soft sediments. It grows in tidal zones, protects coastlines from erosion, and serves as a nursery habitat for marine species.
@@ -172,3 +175,77 @@
 <blockquote><div align="justify">
   A wetland plant with large arrow-shaped leaves and a hooded green flower (spathe). It grows in marshes and slow-moving waters, providing cover for amphibians and aquatic organisms.
 </div></blockquote>
+
+---
+
+## C. MODEL TRAINING DETAILS
+
+- **Epochs**: 50
+- **Batch Size**: 16
+- **Learning Rate**: 0.001
+- **Number of Images per Class**: 300
+
+![Alt text](model_training/training_model.png)
+
+---
+
+## D. MODEL EVALUATION
+
+### **1. Confusion Matrix**
+
+![Alt text](under_the_hood_eval/confusion_matrix_1.png) 
+![Alt text](under_the_hood_eval/confusion_matrix_2.png) 
+![Alt text](under_the_hood_eval/confusion_matrix_3.png)
+
+### **2. Accuracy Per Class**
+
+![Alt text](under_the_hood_eval/accuracy_per_class.png)
+
+### **3. Overall Accuracy**
+
+![Alt text](under_the_hood_eval/loss_per_epoch.png)
+![Alt text](under_the_hood_eval/accuracy_per_epoch.png)
+
+---
+
+## E. MODEL TESTING
+
+### Test 1
+
+![Alt text](preview_test_images/Test_1.png)
+
+### Test 2
+
+![Alt text](preview_test_images/Test_2.png)
+
+### Test 3
+
+![Alt text](preview_test_images/Test_3.png)
+
+### Test 4
+
+![Alt text](preview_test_images/Test_4.png)
+
+### Test 5
+
+![Alt text](preview_test_images/Test_5.png)
+
+### Test 6
+
+![Alt text](preview_test_images/Test_6.png)
+
+### Test 7
+
+![Alt text](preview_test_images/Test_7.png) 
+
+### Test 8
+
+![Alt text](preview_test_images/Test_8.png)
+
+### Test 9
+
+![Alt text](preview_test_images/Test_9.png)
+
+### Test 10
+
+![Alt text](preview_test_images/Test_10.png)
